@@ -1,2 +1,2 @@
 # Snake_Game
-This is a cpp code for snake game.
+This is a basic cpp code for snake game.
